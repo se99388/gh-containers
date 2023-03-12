@@ -1,3 +1,6 @@
 {
-  "window.zoomLevel": 0
+  "window.zoomLevel": 0,
+  "yaml.schemas": {
+    "https://raw.githubusercontent.com/deployphp/deployer/master/src/schema.json": "file:///home/ofir/tutorial/github-actions-max/01%2BStarting%2BProject/01%20Starting%20Project/.github/workflows/deploy.yml"
+  }
 }
